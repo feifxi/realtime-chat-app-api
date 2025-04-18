@@ -10,11 +10,6 @@ CLOUDINARY_API_KEY=your_cloudinary_api_key
 CLOUDINARY_API_SECRET=your_cloudinary_api_secret 
 ```
 
-### Run this app locally
-
-```shell
-npm run build
-```
 
 ### Start the app
 
